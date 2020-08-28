@@ -794,7 +794,6 @@ services */
 }
   
 .page-info a {
-    text-transform: uppercase;
     color: var(--clr-primary-5);
     transition: var(--transition);
 }
